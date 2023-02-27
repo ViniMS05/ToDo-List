@@ -22,7 +22,7 @@ export function TaskList() {
   const [tasks, setTasks] = useState<TaskProps[]>([
     {
       id: 1,
-      content: "Exemplo de taréfa",
+      content: "Exemplo de tarefa",
       checked: true,
     },
   ]);

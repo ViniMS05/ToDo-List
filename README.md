@@ -1,7 +1,7 @@
 <h1 align="center">ToDo List</h1>
 
 <p align="center">
-Desafio proposto no curso Ignite da Rocketseat, no qual foi desenvolvido uma aplicação para controle de taréfas utilizando React
+Desafio proposto no curso Ignite da Rocketseat, no qual foi desenvolvido uma aplicação para controle de tarefas utilizando React
 </p>
 
 <br>
